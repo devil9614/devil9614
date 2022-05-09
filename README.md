@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding react
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on linkedIn
-- 📫 How to reach me https://www.linkedin.com/in/sujan-mukherjee-412646166
+- 📫 How to reach me https://www.linkedin.com/in/sujan9614
 
 <!---
 devil9614/devil9614 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
