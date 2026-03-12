@@ -1,17 +1,107 @@
-<h1 align="center">Hi 👋, I'm Sujan</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h1 align="center">Hi, I'm Sujan Mukherjee 👋</h1>
+<h3 align="center">Software Developer • Full-Stack Builder • AI Product Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devil9614&label=Profile%20views&color=0e75b6&style=flat" alt="devil9614" /> </p>
+<p align="center">
+  Building AI-powered products, mobile apps, developer tooling, and data-driven systems.
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devil9614" alt="devil9614" /></a> </p>
+<p align="center">
+  <a href="https://github.com/devil9614">
+    <img src="https://komarev.com/ghpvc/?username=devil9614&label=Profile%20views&color=0e75b6&style=flat" alt="devil9614" />
+  </a>
+  <a href="https://github.com/devil9614?tab=followers">
+    <img src="https://img.shields.io/github/followers/devil9614?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/devil9614">
+    <img src="https://img.shields.io/github/stars/devil9614?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Something everyday**
+---
 
-- 💬 Ask me about **react js**
+## 🚀 About Me
 
+- 🔭 I build **production-focused web and mobile apps** with strong product thinking.
+- 🧠 I work across **React Native, Next.js, Node/NestJS, backend systems, analytics, and AI workflows**.
+- 📈 I like building things that combine **software, automation, growth, and monetization**.
+- 🤖 Current interests: **AI agents, prediction-market tooling, trading analytics, mobile UX, and creator tooling**.
+- 🛠️ I enjoy turning rough ideas into **usable MVPs fast**.
+- 🌱 Learning every day and always iterating.
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🧩 What I Work On
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devil9614&show_icons=true&locale=en" alt="devil9614" /></p>
+- **AI-assisted products** and agent workflows
+- **Mobile apps** with React Native
+- **Web platforms** with Next.js
+- **Backend APIs** and automation systems
+- **Analytics dashboards** and data-heavy interfaces
+- **Experimentation around trading, signals, alerts, and market intelligence**
+- **Moto + travel tech ideas**, including map and ride-oriented experiences
+
+---
+
+## ⚡ GitHub At a Glance
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devil9614&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://streak-stats.demolab.com?user=devil9614&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devil9614&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devil9614&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+### 📌 Contribution-style stats
+
+- **Current streak** and **longest streak** are shown in the streak card above.
+- **Total activity**, **language mix**, and **overall contribution signal** are shown in the stats cards.
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devil9614&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</p>
+
+---
+
+## 🌟 Featured Profile Themes
+
+Here’s the kind of engineering and product work I enjoy most:
+
+- Building **clean, premium user experiences**
+- Shipping **real-world MVPs** instead of overthinking prototypes
+- Designing systems that mix **AI + product + growth**
+- Creating software that is both **useful and monetizable**
+- Working on ideas that span **web, mobile, backend, analytics, and automation**
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/devil9614" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sujanmukherjee9614@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💬 Developer Mindset
+
+```text
+Build fast.
+Ship clean.
+Learn constantly.
+Turn ideas into products.
+```
